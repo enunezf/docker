@@ -1,6 +1,9 @@
 # Contenedores vs. Máquinas virtuales 
 
-TODO
+## TODO
+* Instalación de docker
+* Que es un contenedor
+* Contenedores vs. máquinas virtuales
 
 Ejecutar : ``` docker run hello-world```
 
