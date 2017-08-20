@@ -30,4 +30,8 @@ sudo apt-get install docker-ce
 #### Uninstall
 ```
 sudo apt-get purge docker-ce
-``
+```
+### Mac
+Binario para instalación en MAC
+[Docker - Mac](https://www.docker.com/docker-mac)
+
