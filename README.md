@@ -18,7 +18,7 @@ $ sudo apt-get install \
 
 $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
-** amd64 **
+#### amd64
 ```
 $ sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
@@ -27,7 +27,7 @@ $ sudo add-apt-repository \
 sudo apt-get update
 sudo apt-get install docker-ce
 ```
-** Unistall **
+#### Uninstall
 ```
 sudo apt-get purge docker-ce
-```
+``
